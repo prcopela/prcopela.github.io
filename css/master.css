@@ -1,0 +1,53 @@
+html { 
+  background: url(../images/desert1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Times New Roman", sans-serif;
+}
+
+.prof-box {
+	width: 370px;
+	height: 370px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 75px;
+	text-align: center;
+}
+
+.prof-pic {
+	border-radius: 40px;
+	height: 120px;
+	width: 120px;
+}
+
+h1 {
+	font-weight: 100;
+    letter-spacing: initial;
+    font-size: 40px
+}
+
+h5 {
+	font-weight: 200;
+    font-size: larger;
+}
+
+p{
+	font-size: medium;
+}
+
+.icons {
+	font-size: 35px;
+}
+
+.icons a {
+	color: white;
+	text-decoration: none;
+}
+
+.line-break {
+	border-top: 2px solid white;
+}
